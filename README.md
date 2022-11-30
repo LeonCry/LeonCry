@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeonCry
-- 📫 How to reach me ...
+- 📫 How to reach me 👇
 - ✨http://www.leonblogs.cn/ 
 - ✨http://www.polyhedronx.com/ 
 - ✨http://www.escapefromDeath.com/
