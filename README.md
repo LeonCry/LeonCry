@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @SeaOrange
 - 📫 How to reach me 👇
-- ✨http://www.leonblogs.cn/ 
-- ✨http://www.polyhedronx.com/ 
-- ✨http://www.escapefromDeath.com/
+- ✨https://seaorange.vercel.app.com
+- ~~✨http://www.leonblogs.cn/~~  [no longer accessible] 
+- ~~✨http://www.polyhedronx.com/~~  [no longer accessible] 
+- ~~✨http://www.escapefromDeath.com/~~  [no longer accessible] 
 
 <!---
 LeonCry/LeonCry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
