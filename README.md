@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeaOrange
 - 📫 How to reach me 👇
-- ✨https://seaorange.vercel.app.com
+- ✨https://www.seaci.me
 - ~~✨http://www.leonblogs.cn/~~  [no longer accessible] 
 - ~~✨http://www.polyhedronx.com/~~  [no longer accessible] 
 - ~~✨http://www.escapefromDeath.com/~~  [no longer accessible] 
