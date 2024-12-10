@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeaOrange
+- 👋 Hi, I’m @seaci
 - 📫 How to reach me 👇
 - ✨https://www.seaci.me
 - ~~✨http://www.leonblogs.cn/~~  [no longer accessible] 
