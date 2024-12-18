@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @leoncry/seaci
 
-![](assets/Bottom_up.svg)
 
 <p align="center">
-  <a href="https://github.com/LeonCry/LeonCry">
+  👋 Hi, I’m @leoncry/seaci
+  <br/>  <br/>
+  <a href="www.seaci.me">
      <img src="https://img.shields.io/badge/WWW.SEACI.ME-d87b03.svg" />
   </a>
 </p>
@@ -26,9 +26,14 @@
 ![](https://raw.githubusercontent.com/LeonCry/LeonCry/main/assets/github-contribution-grid-snake.svg)
 <!--   stats + languages -->
 
-| .                                                            | .                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=LeonCry&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonCry&theme=radical&layout=compact) |
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=LeonCry&show_icons=true&theme=radical&include_all_commits=true" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonCry&theme=radical&layout=compact" />
+</p>
+ 
 
 
 #### Thanks for visiting :heart:
