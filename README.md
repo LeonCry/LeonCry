@@ -3,7 +3,7 @@
 <p align="center">
   👋 Hi, I’m @leoncry/seaci
   <br/>  <br/>
-  <a href="www.seaci.me">
+  <a href="https://www.seaci.me" target="_blank">
      <img src="https://img.shields.io/badge/WWW.SEACI.ME-d87b03.svg" />
   </a>
 </p>
