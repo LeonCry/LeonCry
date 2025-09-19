@@ -4,7 +4,7 @@
   👋 Hi, I’m @leoncry/voidis
   <br/>  <br/>
   <a href="https://www.voidis.me" target="_blank">
-     <img src="https://img.shields.io/badge/WWW.SEACI.ME-d87b03.svg" />
+     <img src="https://img.shields.io/badge/WWW.VOIDIS.ME-d87b03.svg" />
   </a>
 </p>
 
