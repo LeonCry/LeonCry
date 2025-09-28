@@ -19,28 +19,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=LeonCry.LeonCry" alt="visitors"/>   
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-
-<!--   green snake -->
-![](https://raw.githubusercontent.com/LeonCry/LeonCry/main/assets/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=LeonCry&show_icons=true&theme=radical&include_all_commits=true" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonCry&theme=radical&layout=compact" />
-</p>
- 
-
 
 #### Thanks for visiting :heart:
 
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/LeonCry/count.svg">  
-
-
-
-![](assets/Bottom_down.svg)
