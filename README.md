@@ -19,10 +19,10 @@
     <a href="https://github.com/LeonCry/LeonCry/network/members"><img src="https://img.shields.io/github/forks/LeonCry/LeonCry.svg?color=blue&logo=github?style=flat-square"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=LeonCry.LeonCry?style=flat-square" alt="visitors"/>   
 </p>
-<div style="display:flex;flex-flow: wrap;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeonCry&show_icons=true&theme=transparent" alt="visitors"/>   
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LeonCry" alt="GitHub Streak" /></a>
-</div>
+</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonCry" alt="visitors"/>   
 
 <p align="center">
