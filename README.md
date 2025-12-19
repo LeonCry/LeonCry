@@ -26,7 +26,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonCry" alt="visitors"/>   
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+your+visiting!&color=000000" alt="visitors"/>   
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+your+visiting!&color=000000"/>   
 </p>
 
 
